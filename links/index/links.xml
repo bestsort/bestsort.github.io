@@ -67,4 +67,18 @@
     <avatar>https://hexo.yuanjh.cn/images_out/avatar.png</avatar>
     <url>https://hexo.yuanjh.cn</url>
   </link>
+  <link>
+    <title>LeeBlog</title>
+    <subtitle>记录、分享关于JAVA的学习总结</subtitle>
+    <avatar>https://hexo.yuanjh.cn/images_out/avatar.png</avatar>
+    <url>https://www.leejean.top/img/about3.jpg</url>
+  </link>
+
+
+  <link>
+    <title>小新の窝</title>
+    <subtitle>站在巨人的肩上追寻大佬们的脚步</subtitle>
+    <avatar>https://www.byfree.top/upload/2020/2/%E5%A4%B4%E5%83%8F-a4b7df5ff66c43f4a004b04fcd0ac5b5.jpg</avatar>
+    <url>https://byfree.top</url>
+  </link>
 </links>
